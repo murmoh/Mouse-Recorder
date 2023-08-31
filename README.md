@@ -1,4 +1,4 @@
-#Mouse Recorder and Manager
+# Mouse Recorder and Manager
 This repository hosts a utility built using Python and tkinter that provides functionalities related to mouse activities and application management.
 
 Features:
