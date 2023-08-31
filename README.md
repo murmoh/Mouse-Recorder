@@ -4,7 +4,7 @@ This repository hosts a utility built using Python and tkinter that provides fun
 ## Features:
 Mouse Movement and Click Recorder: Record real-time mouse movements and clicks, saving the data to corresponding files (mouse.txt, mouseclickL.txt, mouseclickR.txt).
 
-Mouse Playback: Play the recorded mouse movements and clicks with an adjustable speed control.
+#### Mouse Playback: Play the recorded mouse movements and clicks with an adjustable speed control.
 
 Log Active Windows and Control Volume:
 
