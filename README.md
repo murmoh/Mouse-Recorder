@@ -1,7 +1,7 @@
 # Mouse Recorder and Manager
 This repository hosts a utility built using Python and tkinter that provides functionalities related to mouse activities and application management.
 
-Features:
+# Features:
 Mouse Movement and Click Recorder: Record real-time mouse movements and clicks, saving the data to corresponding files (mouse.txt, mouseclickL.txt, mouseclickR.txt).
 
 Mouse Playback: Play the recorded mouse movements and clicks with an adjustable speed control.
@@ -16,7 +16,7 @@ Log Applications: Logs the description of applications with active main windows 
 
 Erase Logs: Delete the recorded mouse activity logs from their respective files.
 
-Components:
+## Components:
 1. Main UI (tkinter GUI):
 Buttons for recording, stopping the recording, starting the playback, logging active windows, and erasing logs.
 Speed control slider for playback.
